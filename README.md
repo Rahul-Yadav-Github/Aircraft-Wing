@@ -6,7 +6,6 @@ This project involves designing an aircraft wing using SolidWorks. The design in
 
 - **/Designs**: Contains the SolidWorks part and assembly files.
 - **/Drawings**: Includes detailed technical drawings for manufacturing.
-- **/Simulations**: Holds simulation results and analysis reports (if performed).
 
 ## Requirements
 
